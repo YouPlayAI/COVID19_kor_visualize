@@ -1,7 +1,5 @@
 # COVID19_kor_visualize
 
-5월 5일 시각화 결과 공유!!!
-
 [Dacon data](https://dacon.io/competitions/official/235590/data/)
 
 [COVID19_plotly colab](https://colab.research.google.com/drive/15nIpSqoY5Zc_4V8VJzt1fzW5TS0KeAJm)
