@@ -12,4 +12,4 @@
 [matplot tuto blog](https://jehyunlee.github.io/2020/04/21/Python-DS-10-matplotlib_Tools/) 
 
 
-# 시청해주신 여러분 감사합니다
+# 시청해주신 여러분 감사합니다ㅏ
